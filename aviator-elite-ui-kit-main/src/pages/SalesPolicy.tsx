@@ -36,7 +36,7 @@ const SalesPolicy = () => {
             <div>
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">Warranty and Returns</h2>
               <p className="text-gray-600 leading-relaxed">
-                All parts come with manufacturer warranty. Returns are accepted within 30 days of purchase with original packaging and documentation.
+                All parts come with manufacturer warranty. 
               </p>
             </div>
           </div>

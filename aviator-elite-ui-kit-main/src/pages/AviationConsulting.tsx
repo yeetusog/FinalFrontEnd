@@ -1,24 +1,22 @@
-
 import ServiceLanding from './ServiceLanding';
 
 const AviationConsulting = () => {
   const carouselImages = [
-    'https://images.unsplash.com/photo-1472396961693-142e6e269027?w=800&h=600&fit=crop',
-    'https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=800&h=600&fit=crop',
-    'https://images.unsplash.com/photo-1487252665478-49b61b47f302?w=800&h=600&fit=crop'
+    'https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=800&h=600&fit=crop'
   ];
 
   return (
     <ServiceLanding
       title="Aviation Consultancy"
-      description="Expert aviation consulting services to optimize your operations, ensure compliance, and drive strategic growth in the aviation industry."
+      description={`Rotor Hub India is a trusted aviation consultancy serving various Maintenance, Repair, and Overhaul (MRO) organizations. We are proud to have facilitated DGCA approvals for H+S Aviation, UK (2020) and StandardAero Business Aviation Services, USA (2025).
+
+Our expertise covers end-to-end regulatory support, including preparation and submission of documents, coordination with authorities for timely approvals, and handling all financial remittances to the regulator on behalf of our clients.`}
       features={[
-        "Regulatory Compliance & Certification",
-        "Operational Efficiency Analysis",
-        "Safety Management Systems",
-        "Strategic Planning & Market Analysis",
-        "Aircraft Acquisition Consulting"
-        
+        "End-to-end regulatory support",
+        "DGCA approval facilitation",
+        "Document preparation and submission",
+        "Coordination with authorities",
+        "Financial remittance handling"
       ]}
       images={carouselImages}
     />

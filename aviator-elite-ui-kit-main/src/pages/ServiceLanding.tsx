@@ -74,7 +74,7 @@ const ServiceLanding = ({ title, description, features, images = [] }: ServiceLa
         </div>
       </section>
 
-      <Footer />
+      
     </div>
   );
 };

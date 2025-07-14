@@ -15,7 +15,7 @@ const Legal = () => {
             <div>
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">Company Registration</h2>
               <p className="text-gray-600 leading-relaxed">
-                AviationPro is a registered company operating under Indian aviation regulations and international aviation standards. Our operations are certified by the Directorate General of Civil Aviation (DGCA).
+                RotorHubIndia is a registered company operating under Indian aviation regulations and international aviation standards. Our operations are certified by the Directorate General of Civil Aviation (DGCA).
               </p>
             </div>
             

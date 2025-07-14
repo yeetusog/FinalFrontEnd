@@ -25,7 +25,7 @@ const Home = () => {
               <div className="space-y-4">
                 <h1 className="text-4xl md:text-6xl font-bold text-gray-900 leading-tight">
                   Luxury Private Charter in India
-                  <span className="text-blue-600"> Within 4 Clicks</span>
+                  <span className="text-blue-600"> Within Clicks</span>
                 </h1>
                 <p className="text-xl text-gray-600 leading-relaxed">
                   Personal assistant included for seamless aviation experiences. Professional charter services, consulting, and aircraft solutions tailored for your needs.
@@ -66,7 +66,7 @@ const Home = () => {
             </div>
 
             {/* Image Carousel */}
-            <div className="h-[500px] lg:h-[600px]">
+            <div className="h-[800px] lg:h-[800px]">
               <ImageCarousel images={carouselImages} />
             </div>
           </div>

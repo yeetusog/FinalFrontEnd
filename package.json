@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^5.83.0",
+    "@types/react-router": "^5.1.20",
+    "lucide-react": "^0.525.0",
+    "react-router-dom": "^7.6.3"
+  }
+}

@@ -8,11 +8,12 @@ const Navigation = () => {
 
   const navItems = [
     { name: 'Private Charter', path: '/private-charter' },
-    { name: 'Aviation Consulting', path: '/aviation-consulting' },
+    { name: 'Aviation Consultancy', path: '/aviation-consulting' },
     { name: 'Engine Overhaul', path: '/engine-overhaul' },
     { name: 'Aircraft Parts & Components', path: '/aircraft-parts' },
     { name: 'Ground Support Equipment', path: '/ground-support' },
-    { name: 'Preowned Aircraft Sales', path: '/preowned-aircraft' }
+    { name: 'Preowned Aircraft Sales', path: '/preowned-aircraft' },
+    
   ];
 
   return (
